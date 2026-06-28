@@ -74,7 +74,7 @@ def init_db():
     if c.fetchone()[0] == 0:
         padroes = [
             ("Alimentação",  "#e74c3c"),
-            ("Transporte",   "#e67e22"),
+            ("Transporte",   "#070707"),
             ("Moradia",      "#8e44ad"),
             ("Saúde",        "#27ae60"),
             ("Lazer",        "#2980b9"),
