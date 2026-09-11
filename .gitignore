@@ -1,11 +1,25 @@
-# Pastas do PyInstaller (não precisam ir para o GitHub)
+# PyInstaller
 build/
 dist/
 *.spec
 
-# Temporários do Python
+# Arquivos temporários do Python
 __pycache__/
 *.pyc
+*.pyo
 
-# Banco de dados local (para não sobrescrever seu banco de testes na nuvem)
+# Banco de dados local
 *.db
+*.sqlite
+*.sqlite3
+
+# Ambiente virtual
+.venv/
+venv/
+
+# Variáveis de ambiente e credenciais
+.env
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
