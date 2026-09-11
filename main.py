@@ -554,7 +554,7 @@ class ReceitaDialog(tk.Toplevel):
 class CashflowApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("GastouQuanto - Controle Financeiro")
+        self.root.title("CashFlow - Controle Financeiro")
         self.root.geometry("1024x700")
         self.root.configure(bg=C_BG)
 
