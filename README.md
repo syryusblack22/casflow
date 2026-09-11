@@ -1,32 +1,46 @@
-# 💰 Cashflow - Controle Financeiro Pessoal
+# Cashflow — Controle Financeiro Pessoal
 
-O **Cashflow** é um aplicativo de desktop desenvolvido em Python para ajudar no controle financeiro pessoal. Ele permite registrar receitas e despesas de forma simples, calcular o saldo geral automaticamente e visualizar a distribuição dos seus gastos através de gráficos interativos.
+O **Cashflow** é uma aplicação desktop que desenvolvi em Python para praticar desenvolvimento de software e banco de dados através de um projeto funcional.
 
----
+A proposta do sistema é facilitar o controle financeiro pessoal, permitindo registrar receitas e despesas, acompanhar o saldo e visualizar como os gastos estão distribuídos.
 
-## 🚀 Funcionalidades
+Este projeto faz parte do meu processo de aprendizado em desenvolvimento de sistemas e banco de dados.
 
-* 📊 **Gráficos Dinâmicos**: Visualização clara de para onde está indo o seu dinheiro com gráficos de pizza gerados pelo Matplotlib.
-* 💾 **Persistência de Dados**: Armazenamento local e seguro utilizando banco de dados SQLite.
-* 📅 **Filtro Mensal**: Navegação fácil entre os meses para acompanhar seu histórico financeiro.
-* 🎨 **Interface Intuitiva**: Interface gráfica amigável desenvolvida com Tkinter.
+## Funcionalidades
 
----
+- Cadastro de receitas e despesas
+- Cálculo automático do saldo
+- Armazenamento local dos dados
+- Consulta das movimentações financeiras
+- Filtro por mês
+- Visualização de gastos através de gráficos
+- Interface gráfica para utilização do sistema
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias utilizadas
 
-* **Python** (Linguagem principal)
-* **Tkinter** (Interface gráfica)
-* **Matplotlib** (Geração de gráficos)
-* **SQLite** (Banco de dados local)
-* **PyInstaller** (Para geração do executável `.exe`)
+- **Python** — desenvolvimento da aplicação
+- **Tkinter** — interface gráfica
+- **SQLite** — armazenamento e persistência dos dados
+- **Matplotlib** — geração dos gráficos
 
----
+## O que pratiquei neste projeto
 
-## ⚙️ Como Executar o Projeto
+Durante o desenvolvimento do Cashflow, trabalhei principalmente com:
 
-Se você quiser rodar o projeto diretamente pelo código-fonte, siga os passos abaixo:
+- Lógica de programação
+- Manipulação e persistência de dados
+- Operações com banco de dados SQLite
+- Desenvolvimento de interfaces gráficas
+- Organização de código em Python
+- Geração e apresentação de dados em gráficos
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/syryusblack22/casflow.git
+## Imagem do projeto
+
+![Cashflow](Cashflow.jpg)
+
+## Como executar
+
+Clone este repositório:
+
+```bash
+git clone https://github.com/syryusblack22/casflow.git
