@@ -39,7 +39,18 @@ Durante o desenvolvimento do Cashflow, trabalhei principalmente com:
 Abaixo está a tela principal do CashFlow com dados de exemplo:
 
 ![Tela principal do CashFlow](cashflow-principal.png)
-## Como executar
+
+### Gerenciamento de lançamentos
+
+As receitas e despesas podem ser editadas diretamente pela aplicação, permitindo atualizar valores, categorias, datas e outras informações dos lançamentos.
+
+#### Edição de receita
+
+![Edição de receita no CashFlow](cashflow-editar-receita.png)
+
+#### Edição de despesa
+
+![Edição de despesa no CashFlow](cashflow-editar-despesa.png)
 
 Clone este repositório:
 
