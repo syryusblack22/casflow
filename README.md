@@ -43,4 +43,4 @@ Durante o desenvolvimento do Cashflow, trabalhei principalmente com:
 Clone este repositório:
 
 ```bash
-git clone https://github.com/syryusblack22/casflow.git
+git clone https://github.com/syryusblack22/cashflow.git
