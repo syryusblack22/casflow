@@ -52,7 +52,30 @@ As receitas e despesas podem ser editadas diretamente pela aplicação, permitin
 
 ![Edição de despesa no CashFlow](cashflow-editar-despesa.png)
 
+## Como executar
+
 Clone este repositório:
 
 ```bash
 git clone https://github.com/syryusblack22/cashflow.git
+```
+
+Entre na pasta do projeto:
+
+```bash
+cd cashflow
+```
+
+Instale as dependências:
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+Execute a aplicação:
+
+```bash
+python main.py
+```
+
+> Os dados são armazenados localmente em um banco SQLite no computador do usuário.
