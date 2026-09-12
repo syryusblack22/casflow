@@ -1,6 +1,6 @@
 
 """
-GastouQuanto - Controle Financeiro Pessoal
+CashFlow - Controle Financeiro Pessoal
 Equivalente Python do app Android original.
 
 Dependências:
