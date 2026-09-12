@@ -34,10 +34,11 @@ Durante o desenvolvimento do Cashflow, trabalhei principalmente com:
 - Organização de código em Python
 - Geração e apresentação de dados em gráficos
 
-## Imagem do projeto
+## Demonstração
 
-![Cashflow](Cashflow.jpg)
+Abaixo está a tela principal do CashFlow com dados de exemplo:
 
+![Tela principal do CashFlow](cashflow-principal.png)
 ## Como executar
 
 Clone este repositório:
